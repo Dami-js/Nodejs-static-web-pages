@@ -1,0 +1,16 @@
+[
+  {
+    "user": {
+      "name": "Seweje Damilola John",
+      "age": 21,
+      "email": "seweje@dammy.com"
+    }
+  },
+  {
+    "user": {
+      "name": "Gbemiga Oyedele",
+      "age": 20,
+      "email": "dele@gg.com"
+    }
+  }
+]
